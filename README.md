@@ -1,2 +1,2 @@
 # testrepo
-testrepo for edx projext
+testpro for EdX project
